@@ -10,8 +10,4 @@ int main()
 {
 while(yylex());
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Priv
+
